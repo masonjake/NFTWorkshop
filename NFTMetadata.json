@@ -1,0 +1,5 @@
+{
+    "name" : "NFT name",
+    "description": "nft description goes here",
+    "image" : "https://gateway.pinata.cloud/ipfs/Your pinata image CID"
+}
